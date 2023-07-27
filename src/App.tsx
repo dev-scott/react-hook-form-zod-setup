@@ -50,6 +50,7 @@ function App() {
 
         <label>confirm password:</label>
         <input type="text" {...register("confirmPassword")} />
+        
         <button>submit</button>
       </form>
     </div>
